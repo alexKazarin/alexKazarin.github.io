@@ -1,0 +1,91 @@
+############################
+## Author
+############################
+
+author:
+  name: alexKazarin
+  image: author.png
+  greeting: "Senior SDET | Quality Assurance (QA) Automation Engineer | ISTQB expert :rocket:"
+  # icon: ":wave:"
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/alexKazarin
+  - linkedin: https://www.linkedin.com/in/alexey-kazarin/
+  # - link: https://github.com/alexKazarin/website#readme
+  - website: https://notes4geeks.blogspot.com/
+  # - x-twitter:
+  # - mastodon:
+  # - instagram:
+  # - reddit:
+  # - telegram:
+  # - whatsapp:
+  # - signal:
+  # - codepen:
+  # - dev:
+  # - email:
+  # - discord:
+  # - orcid:
+  # - slack:
+  # - stack-overflow:
+  # - twitch:
+  # - patreon:
+  # - soundcloud:
+  # - dribbble:
+  # - stack-exchange:
+  # - tiktok:
+  # - youtube:
+  # - keybase:
+  # - flickr:
+  # - tumblr:
+  # - kickstarter:
+  # - snapchat:
+  # - bluesky:
+  # - bitbucket:
+  # - bandcamp:
+  # - etsy:
+  # - spotify:
+  # - pinterest:
+  # - strava:
+  # - untappd:
+  # - skype:
+  # - medium:
+  # - foursquare:
+  # - apple:
+  # - amazon:
+  # - google:
+  # - paypal:
+  # - windows:
+
+############################
+## Colunms of Links
+############################
+
+# between 2 & 6 columns are supported (both incl)
+columns: 3
+
+###########################
+## Icon text
+###########################
+
+# add the icon name to each icon
+icontext: true
+
+############################
+## Tooltips
+############################
+
+# add tooltips on all icons
+tooltip: true
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: Alexey Kazarin
+description: "Alexey Kazarin | Digital Card"
+images:
+  - thumbnail.png

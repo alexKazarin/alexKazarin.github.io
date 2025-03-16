@@ -1,0 +1,23 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: "https://alexKazarin.github.io"
+title: Alexey Kazarin
+
+############################
+## MODULES
+############################
+
+module:
+  imports:
+    - path: github.com/chrede88/L1nkr
+
+############################
+## MISC
+############################
+
+enableEmoji: false
+disableKinds: ["taxonomy", "term"]
+languageCode: "en-us"
+enableRobotsTXT: true
